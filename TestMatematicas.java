@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class TestMatematicas{
 	
-	public static void main (String[] args) {
+	public static void main3 (String[] args) {
 	Scanner sc = new Scanner(System.in);
 	System.out.println("Dime el dato para comprobar si es par o impar");
 	int dato = sc.nextInt();
