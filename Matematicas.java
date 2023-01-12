@@ -17,5 +17,9 @@ public class Matematicas {
 		
 	return x;
 	}
+	public static boolean esDivisiblePorTres(int numero){
+public static boolean esDivisiblePorCinco(int numero){
+
 }
 
+}
